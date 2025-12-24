@@ -79,49 +79,66 @@
 <!-- ANIMATED LANGUAGE STATISTICS -->
 <div align="center" style="margin: 60px 0;">
 
-## **📈 GITHUB ACTIVITY**
+## **📊 GITHUB ANALYTICS**
 
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 30px; margin: 40px 0;">
+<!-- STATS ROW -->
+<table>
+<tr>
+<td width="50%" align="center">
 
-<!-- Stats Card 1 -->
-<div style="background: rgba(20,20,30,0.8); padding: 25px; border-radius: 15px; border: 2px solid rgba(110,123,255,0.3);">
-  <h3 style="color: #6E7BFF; margin-top: 0;">📊 GitHub Stats</h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=rajunpandey&show_icons=true&theme=dark&hide_border=true&bg_color=00000000&title_color=6E7BFF&icon_color=6E7BFF&text_color=FFFFFF&include_all_commits=true" width="100%" />
+### **GitHub Stats**
+<img src="https://github-readme-stats.vercel.app/api?username=rajunpandey&show_icons=true&theme=dark&hide_border=true&bg_color=00000000&title_color=6E7BFF&icon_color=6E7BFF&text_color=FFFFFF" />
+
+</td>
+<td width="50%" align="center">
+
+### **Top Languages**
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajunpandey&layout=compact&theme=dark&hide_border=true&bg_color=00000000&title_color=6E7BFF&text_color=FFFFFF" />
+
+</td>
+</tr>
+</table>
+
+<!-- STREAK STATS -->
+<div style="margin: 40px 0;">
+<img src="https://streak-stats.demolab.com?user=rajunpandey&theme=dark&hide_border=true&background=00000000&ring=6E7BFF&fire=6E7BFF&currStreakLabel=6E7BFF&sideLabels=6E7BFF&sideNums=FFFFFF" />
 </div>
 
-<!-- Stats Card 2 -->
-<div style="background: rgba(20,20,30,0.8); padding: 25px; border-radius: 15px; border: 2px solid rgba(110,123,255,0.3);">
-  <h3 style="color: #6E7BFF; margin-top: 0;">🔥 Contribution Streak</h3>
-  <img src="https://streak-stats.demolab.com?user=rajunpandey&theme=dark&hide_border=true&background=00000000&ring=6E7BFF&fire=6E7BFF&currStreakLabel=6E7BFF&sideLabels=6E7BFF&sideNums=FFFFFF" width="100%" />
+<!-- ACTIVITY GRAPH -->
+<div style="margin: 40px 0;">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rajunpandey&theme=react-dark&hide_border=true&bg_color=00000000&line=6E7BFF&point=FFFFFF&area=true&area_color=6E7BFF" />
 </div>
 
-<!-- Stats Card 3 -->
-<div style="background: rgba(20,20,30,0.8); padding: 25px; border-radius: 15px; border: 2px solid rgba(110,123,255,0.3);">
-  <h3 style="color: #6E7BFF; margin-top: 0;">💻 Top Languages</h3>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajunpandey&layout=compact&theme=dark&hide_border=true&bg_color=00000000&title_color=6E7BFF&text_color=FFFFFF&langs_count=8" width="100%" />
-</div>
-
-</div>
-
-<!-- Activity Graph -->
-<div style="background: rgba(20,20,30,0.8); padding: 25px; border-radius: 15px; border: 2px solid rgba(110,123,255,0.3); margin-top: 30px;">
-  <h3 style="color: #6E7BFF; margin-top: 0;">📅 Activity Timeline</h3>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rajunpandey&theme=react-dark&hide_border=true&bg_color=00000000&line=6E7BFF&point=FFFFFF&area=true&area_color=6E7BFF" width="100%" />
-</div>
-
-<!-- Snake Animation -->
-<div style="background: rgba(20,20,30,0.8); padding: 25px; border-radius: 15px; border: 2px solid rgba(110,123,255,0.3); margin-top: 30px;">
-  <h3 style="color: #6E7BFF; margin-top: 0;">🐍 Contribution Snake</h3>
-  <img src="https://raw.githubusercontent.com/rajunpandey/rajunpandey/output/github-contribution-grid-snake.svg" width="100%" />
+<!-- SNAKE ANIMATION -->
+<div style="margin: 40px 0; padding: 20px; background: rgba(110,123,255,0.05); border-radius: 15px;">
+<h3>🐍 Contribution Snake</h3>
+<img src="https://raw.githubusercontent.com/rajunpandey/rajunpandey/output/github-contribution-grid-snake.svg" width="100%" />
 </div>
 
 </div>
 
 ---
 
-<!-- ANIMATED CONTACT SECTION -->
-<div align="center" style="margin: 60px 0;">
+<div align="center">
 
+## **🎯 TECHNICAL LANDSCAPE**
+
+<p align="center">
+<!-- TECH STACK BADGES -->
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+</p>
+
+</div>
+
+---
+
+<div align="center">
 ## **📬 GET IN TOUCH**
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 20px; max-width: 800px; margin: 40px auto;">
