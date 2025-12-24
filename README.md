@@ -200,10 +200,3 @@
 </div>
 
 </div>
-
-<style>
-@keyframes fillBar {
-  from { width: 0%; }
-  to { width: attr(data-width); }
-}
-</style>
