@@ -134,6 +134,70 @@ Hello! I'm **Rajan Pandey**, a passionate Full Stack Developer who loves creatin
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
 ---
+
+## **📊 LANGUAGE STATISTICS**
+
+### **Most Used Languages**
+Here's a breakdown of my most frequently used programming languages:
+
+
+### **GitHub Language Distribution**
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajunpandey&layout=compact&theme=dark&hide_border=true&bg_color=00000000&title_color=6E7BFF&text_color=FFFFFF&langs_count=8" alt="Top Languages" />
+
+---
+
+## **📈 GITHUB ACTIVITY**
+
+<div align="center">
+
+<!-- GitHub Stats -->
+<table>
+<tr>
+<td width="50%" align="center">
+
+### **📊 GitHub Stats**
+<img src="https://github-readme-stats.vercel.app/api?username=rajunpandey&show_icons=true&theme=dark&hide_border=true&bg_color=00000000&title_color=6E7BFF&icon_color=6E7BFF&text_color=FFFFFF&count_private=true" />
+
+</td>
+<td width="50%" align="center">
+
+### **🔥 Contribution Streak**
+<img src="https://streak-stats.demolab.com?user=rajunpandey&theme=dark&hide_border=true&background=00000000&ring=6E7BFF&fire=6E7BFF&currStreakLabel=6E7BFF&sideLabels=6E7BFF&sideNums=FFFFFF" />
+
+</td>
+</tr>
+</table>
+
+<!-- Activity Graph -->
+<div style="margin: 30px 0;">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rajunpandey&theme=react-dark&hide_border=true&bg_color=00000000&line=6E7BFF&point=FFFFFF&area=true&area_color=6E7BFF" />
+</div>
+
+<!-- Snake Animation -->
+<div style="margin: 30px 0; padding: 20px; background: rgba(110,123,255,0.05); border-radius: 15px;">
+<h3>🐍 Contribution Snake</h3>
+<img src="https://raw.githubusercontent.com/rajunpandey/rajunpandey/output/github-contribution-grid-snake.svg" />
+</div>
+
+</div>
+
+---
+
+## **🌟 FEATURED PROJECTS**
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+### **🛡️ System Architecture**
+**Enterprise-level framework**
+> Modern, scalable system design with TypeScript
+
+```yaml
+stack: [TypeScript, Node.js, PostgreSQL]
+status: Production Ready
+focus: Scalability & Performance
 ## **📬 LET'S CONNECT**
 
 <p align="center">
