@@ -212,18 +212,95 @@ focus: Scalability & Performance
 </a>
 </p>
 
+
+
+<!-- ANIMATED CONTACT SECTION -->
+<div align="center" style="margin: 60px 0;">
+
+## **📬 GET IN TOUCH**
+
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 20px; max-width: 800px; margin: 40px auto;">
+
+<!-- Email Card -->
+<a href="mailto:rajunpandey1234@gmail.com" style="text-decoration: none;">
+  <div style="background: rgba(110,123,255,0.1); padding: 30px; border-radius: 15px; border: 2px solid rgba(110,123,255,0.3); transition: all 0.3s;"
+       onmouseover="this.style.transform='translateY(-10px)'; this.style.background='rgba(110,123,255,0.2)'"
+       onmouseout="this.style.transform='translateY(0)'; this.style.background='rgba(110,123,255,0.1)'">
+    <div style="font-size: 40px; margin-bottom: 15px;">📧</div>
+    <div style="font-weight: bold; color: #6E7BFF; margin-bottom: 10px;">Email</div>
+    <div style="color: #888; font-size: 14px;">Let's discuss your project</div>
+  </div>
+</a>
+
+<!-- LinkedIn Card -->
+<a href="https://linkedin.com/in/rajun-pandey" style="text-decoration: none;">
+  <div style="background: rgba(110,123,255,0.1); padding: 30px; border-radius: 15px; border: 2px solid rgba(110,123,255,0.3); transition: all 0.3s;"
+       onmouseover="this.style.transform='translateY(-10px)'; this.style.background='rgba(110,123,255,0.2)'"
+       onmouseout="this.style.transform='translateY(0)'; this.style.background='rgba(110,123,255,0.1)'">
+    <div style="font-size: 40px; margin-bottom: 15px;">💼</div>
+    <div style="font-weight: bold; color: #6E7BFF; margin-bottom: 10px;">LinkedIn</div>
+    <div style="color: #888; font-size: 14px;">Professional network</div>
+  </div>
+</a>
+
+<!-- GitHub Card -->
+<a href="https://github.com/rajunpandey" style="text-decoration: none;">
+  <div style="background: rgba(110,123,255,0.1); padding: 30px; border-radius: 15px; border: 2px solid rgba(110,123,255,0.3); transition: all 0.3s;"
+       onmouseover="this.style.transform='translateY(-10px)'; this.style.background='rgba(110,123,255,0.2)'"
+       onmouseout="this.style.transform='translateY(0)'; this.style.background='rgba(110,123,255,0.1)'">
+    <div style="font-size: 40px; margin-bottom: 15px;">💻</div>
+    <div style="font-weight: bold; color: #6E7BFF; margin-bottom: 10px;">GitHub</div>
+    <div style="color: #888; font-size: 14px;">Explore my projects</div>
+  </div>
+</a>
+
+<!-- Twitter Card -->
+<a href="https://twitter.com/rajun_pandey" style="text-decoration: none;">
+  <div style="background: rgba(110,123,255,0.1); padding: 30px; border-radius: 15px; border: 2px solid rgba(110,123,255,0.3); transition: all 0.3s;"
+       onmouseover="this.style.transform='translateY(-10px)'; this.style.background='rgba(110,123,255,0.2)'"
+       onmouseout="this.style.transform='translateY(0)'; this.style.background='rgba(110,123,255,0.1)'">
+    <div style="font-size: 40px; margin-bottom: 15px;">🐦</div>
+    <div style="font-weight: bold; color: #6E7BFF; margin-bottom: 10px;">Twitter</div>
+    <div style="color: #888; font-size: 14px;">Tech thoughts & updates</div>
+  </div>
+</a>
+
+</div>
+
+</div>
 ---
 
-<!-- ANIMATED FOOTER -->
-<svg width="100%" height="80" viewBox="0 0 1200 80">
-  <path d="M0,40 Q300,20 600,40 T1200,40 L1200,80 L0,80 Z" fill="#6E7BFF" opacity="0.1">
-    <animate attributeName="d" values="M0,40 Q300,20 600,40 T1200,40 L1200,80 L0,80 Z; M0,40 Q300,60 600,40 T1200,40 L1200,80 L0,80 Z; M0,40 Q300,20 600,40 T1200,40 L1200,80 L0,80 Z" dur="6s" repeatCount="indefinite"/>
+<!-- ANIMATED WAVE FOOTER -->
+<div align="center" style="margin-top: 80px;">
+
+<svg width="100%" height="100" viewBox="0 0 1200 100">
+  <path d="M0,70 C300,40 500,80 800,60 C1100,40 1200,80 1200,80 L1200,100 L0,100 Z" fill="#6E7BFF" opacity="0.1">
+    <animate attributeName="d" 
+             values="M0,70 C300,40 500,80 800,60 C1100,40 1200,80 1200,80 L1200,100 L0,100 Z;
+                     M0,70 C300,80 500,40 800,70 C1100,80 1200,50 1200,50 L1200,100 L0,100 Z;
+                     M0,70 C300,40 500,80 800,60 C1100,40 1200,80 1200,80 L1200,100 L0,100 Z" 
+             dur="8s" repeatCount="indefinite"/>
   </path>
 </svg>
+<div style="margin-top: 40px;">
+  <div style="font-size: 24px; color: #6E7BFF; margin-bottom: 10px;">✨</div>
+  <div style="font-size: 18px; color: #FFFFFF; font-weight: 300; margin-bottom: 10px;">
 
 **Crafted with intention • Built with purpose**  
 *Where every commit tells a story*
+</div>
+ <div style="font-size: 14px; color: #888;">
+    © 2024 Rajan Pandey • Full Stack Developer • Digital Creator
+  </div>
+</div>
 
 </div>
+
+<style>
+@keyframes fillBar {
+  from { width: 0%; }
+  to { width: attr(data-width); }
+}
+</style>
 
 
