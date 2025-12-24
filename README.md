@@ -41,26 +41,27 @@
 </div>
 
 ---
-## **📋 ABOUT ME**
+## **🧠 ABOUT ME**
 
-Hello! I'm **Rajan Pandey**, a passionate Full Stack Developer who loves creating beautiful, functional applications. I enjoy working with modern technologies and building solutions that make a difference.
-## **🧠 PHILOSOPHICAL CORE**
+<div style="display: flex; align-items: center; gap: 30px; flex-wrap: wrap;">
+  <div style="flex: 1; min-width: 300px;">
+    <p style="font-size: 18px; line-height: 1.8; color: #FFFFFF;">
+      I'm a passionate <span style="color: #6E7BFF; font-weight: bold;">Full Stack Developer</span> who loves crafting digital experiences that make a difference. 
+      With expertise in both frontend and backend technologies, I build scalable, efficient, and user-friendly applications.
+    </p>
+    <p style="font-size: 18px; line-height: 1.8; color: #FFFFFF; margin-top: 15px;">
+      When I'm not coding, you can find me exploring new technologies, contributing to open-source projects, 
+      or sharing knowledge through blogs and tutorials.
+    </p>
+  </div>
+  <div style="flex-shrink: 0;">
+    <div style="width: 120px; height: 120px; background: linear-gradient(45deg, #6E7BFF, #8A2BE2); border-radius: 50%; display: flex; align-items: center; justify-content: center; font-size: 40px;">
+      👨‍💻
+    </div>
+  </div>
+</div>
 
-> I craft digital sanctuaries where code meets poetry,  
-> where every line is intentional, every system breathes with purpose.
-
-**Core Principles:**
-- ✨ **Simplicity** over complexity
-- 🎯 **Clarity** over cleverness
-- 🔄 **Consistency** over speed
-- 🌱 **Progress** over perfection
-
-**Current Focus:**
-- Building scalable, thoughtful systems
-- Designing developer experiences that feel natural
-- Exploring performance optimization
-- Writing code that tells a story
-
+</div>
 ---
 
 <div align="center">
