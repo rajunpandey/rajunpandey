@@ -18,25 +18,25 @@
 
 <!-- SOCIAL BADGES -->
 <p align="center">
-  <a href="https://your-portfolio.com">
+  <a href="https://rajunpandey.com">
     <img src="https://img.shields.io/badge/Portfolio-6E7BFF?style=for-the-badge&logo=About.me&logoColor=white" />
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:rajunpandey1234@gmail.com">
     <img src="https://img.shields.io/badge/Email-FFFFFF?style=for-the-badge&logo=gmail&logoColor=6E7BFF" />
   </a>
-  <a href="https://linkedin.com/in/yourprofile">
+  <a href="https://linkedin.com/in/rajunpandey">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://twitter.com/yourprofile">
+  <a href="https://twitter.com/rajunpadney">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
 </p>
 
 <!-- LIVE COUNTERS -->
 <p>
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=6E7BFF" />
-  <img src="https://img.shields.io/github/followers/YOUR_USERNAME?color=6E7BFF&style=flat-square" />
-  <img src="https://img.shields.io/github/stars/YOUR_USERNAME?color=6E7BFF&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=rajunpandey&style=flat-square&color=6E7BFF" />
+  <img src="https://img.shields.io/github/followers/rajunpadney?color=6E7BFF&style=flat-square" />
+  <img src="https://img.shields.io/github/stars/rajunpandey?color=6E7BFF&style=flat-square" />
 </p>
 
 </div>
@@ -72,13 +72,13 @@
 <td width="50%" align="center">
 
 ### **GitHub Stats**
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&hide_border=true&bg_color=00000000&title_color=6E7BFF&icon_color=6E7BFF&text_color=FFFFFF" />
+<img src="https://github-readme-stats.vercel.app/api?username=rajunpandey&show_icons=true&theme=dark&hide_border=true&bg_color=00000000&title_color=6E7BFF&icon_color=6E7BFF&text_color=FFFFFF" />
 
 </td>
 <td width="50%" align="center">
 
 ### **Top Languages**
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark&hide_border=true&bg_color=00000000&title_color=6E7BFF&text_color=FFFFFF" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajunpandey&layout=compact&theme=dark&hide_border=true&bg_color=00000000&title_color=6E7BFF&text_color=FFFFFF" />
 
 </td>
 </tr>
@@ -86,18 +86,18 @@
 
 <!-- STREAK STATS -->
 <div style="margin: 40px 0;">
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=dark&hide_border=true&background=00000000&ring=6E7BFF&fire=6E7BFF&currStreakLabel=6E7BFF&sideLabels=6E7BFF&sideNums=FFFFFF" />
+<img src="https://streak-stats.demolab.com?user=rajunpandey&theme=dark&hide_border=true&background=00000000&ring=6E7BFF&fire=6E7BFF&currStreakLabel=6E7BFF&sideLabels=6E7BFF&sideNums=FFFFFF" />
 </div>
 
 <!-- ACTIVITY GRAPH -->
 <div style="margin: 40px 0;">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&hide_border=true&bg_color=00000000&line=6E7BFF&point=FFFFFF&area=true&area_color=6E7BFF" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rajunpandey&theme=react-dark&hide_border=true&bg_color=00000000&line=6E7BFF&point=FFFFFF&area=true&area_color=6E7BFF" />
 </div>
 
 <!-- SNAKE ANIMATION -->
 <div style="margin: 40px 0; padding: 20px; background: rgba(110,123,255,0.05); border-radius: 15px;">
 <h3>🐍 Contribution Snake</h3>
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" width="100%" />
+<img src="https://raw.githubusercontent.com/rajunpandey/rajunpandey/output/github-contribution-grid-snake.svg" width="100%" />
 </div>
 
 </div>
@@ -128,13 +128,13 @@
 ## **📬 LET'S CONNECT**
 
 <p align="center">
-<a href="mailto:your.email@example.com">
+<a href="mailto:rajunpandey1234@gmail.com">
   <img src="https://img.shields.io/badge/📧_Email-6E7BFF?style=for-the-badge&logo=gmail" />
 </a>
-<a href="https://linkedin.com/in/yourprofile">
+<a href="https://linkedin.com/in/rajunpandey">
   <img src="https://img.shields.io/badge/💼_LinkedIn-6E7BFF?style=for-the-badge&logo=linkedin" />
 </a>
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/rajunpandey">
   <img src="https://img.shields.io/badge/💻_GitHub-6E7BFF?style=for-the-badge&logo=github" />
 </a>
 </p>
