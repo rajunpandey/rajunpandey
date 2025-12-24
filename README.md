@@ -24,10 +24,10 @@
   <a href="mailto:rajunpandey1234@gmail.com">
     <img src="https://img.shields.io/badge/Email-FFFFFF?style=for-the-badge&logo=gmail&logoColor=6E7BFF" />
   </a>
-  <a href="https://linkedin.com/in/rajunpandey">
+  <a href="https://linkedin.com/in/rajun-pandey">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://twitter.com/rajunpadney">
+  <a href="https://twitter.com/rajun_pandey">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
 </p>
@@ -35,7 +35,7 @@
 <!-- LIVE COUNTERS -->
 <p>
   <img src="https://komarev.com/ghpvc/?username=rajunpandey&style=flat-square&color=6E7BFF" />
-  <img src="https://img.shields.io/github/followers/rajunpadney?color=6E7BFF&style=flat-square" />
+  <img src="https://img.shields.io/github/followers/rajunpandey?color=6E7BFF&style=flat-square" />
   <img src="https://img.shields.io/github/stars/rajunpandey?color=6E7BFF&style=flat-square" />
 </p>
 
@@ -131,7 +131,7 @@
 <a href="mailto:rajunpandey1234@gmail.com">
   <img src="https://img.shields.io/badge/📧_Email-6E7BFF?style=for-the-badge&logo=gmail" />
 </a>
-<a href="https://linkedin.com/in/rajunpandey">
+<a href="https://linkedin.com/in/rajun-pandey">
   <img src="https://img.shields.io/badge/💼_LinkedIn-6E7BFF?style=for-the-badge&logo=linkedin" />
 </a>
 <a href="https://github.com/rajunpandey">
