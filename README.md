@@ -17,30 +17,21 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=38&duration=3000&pause=1000&color=6E7BFF&center=true&vCenter=true&width=800&lines=Hello+World+✦;🚀+FULL+STACK+DEVELOPER;💡+DIGITAL+CREATOR;✨+CODE+ARTIST" alt="Typing SVG" />
 
 <!-- ANIMATED SOCIAL BADGES -->
+<!-- SOCIAL BADGES -->
 <p align="center">
-<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin: 30px 0;">
   <a href="https://rajunpandey.com">
-    <div style="background: linear-gradient(45deg, #6E7BFF, #8A2BE2); padding: 12px 24px; border-radius: 25px; color: white; text-decoration: none; font-weight: bold; display: flex; align-items: center; gap: 8px; transition: all 0.3s;" 
-         onmouseover="this.style.transform='translateY(-5px)'; this.style.boxShadow='0 10px 20px rgba(110,123,255,0.3)'" 
-         onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='none'">
-      🌐 Portfolio
-    </div>
+    <img src="https://img.shields.io/badge/Portfolio-6E7BFF?style=for-the-badge&logo=About.me&logoColor=white" />
   </a>
   <a href="mailto:rajunpandey1234@gmail.com">
-    <div style="background: linear-gradient(45deg, #EA4335, #FBBC05); padding: 12px 24px; border-radius: 25px; color: white; text-decoration: none; font-weight: bold; display: flex; align-items: center; gap: 8px; transition: all 0.3s;" 
-         onmouseover="this.style.transform='translateY(-5px)'; this.style.boxShadow='0 10px 20px rgba(234,67,53,0.3)'" 
-         onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='none'">
-      📧 Email
-    </div>
+    <img src="https://img.shields.io/badge/Email-FFFFFF?style=for-the-badge&logo=gmail&logoColor=6E7BFF" />
   </a>
   <a href="https://linkedin.com/in/rajun-pandey">
-    <div style="background: linear-gradient(45deg, #0077B5, #00A0DC); padding: 12px 24px; border-radius: 25px; color: white; text-decoration: none; font-weight: bold; display: flex; align-items: center; gap: 8px; transition: all 0.3s;" 
-         onmouseover="this.style.transform='translateY(-5px)'; this.style.boxShadow='0 10px 20px rgba(0,119,181,0.3)'" 
-         onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='none'">
-      💼 LinkedIn
-    </div>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-</div>
+  <a href="https://twitter.com/rajun_pandey">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+</p>
 
 <!-- ANIMATED STATS COUNTERS -->
 <div style="display: flex; justify-content: center; gap: 30px; flex-wrap: wrap; margin: 20px 0;">
