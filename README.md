@@ -74,60 +74,7 @@
 <!-- ANIMATED TECH STACK SECTION -->
 <div align="center" style="margin: 60px 0;">
 
-## **🛠️ TECHNICAL EXPERTISE**
 
-<!-- ANIMATED TECH CARDS -->
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 25px; margin: 40px 0;">
-
-<!-- Frontend Card -->
-<div style="background: rgba(30,30,40,0.8); padding: 25px; border-radius: 15px; border: 2px solid rgba(97,218,251,0.3); transition: all 0.3s;"
-     onmouseover="this.style.transform='translateY(-10px)'; this.style.boxShadow='0 20px 40px rgba(97,218,251,0.2)'"
-     onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='none'">
-  <div style="font-size: 40px; margin-bottom: 15px;">🎨</div>
-  <h3 style="color: #61DAFB; margin: 0;">Frontend</h3>
-  <p style="color: #888; font-size: 14px; margin-top: 10px;">
-    React • TypeScript • HTML5 • CSS3 • Tailwind
-  </p>
-</div>
-
-<!-- Backend Card -->
-<div style="background: rgba(30,30,40,0.8); padding: 25px; border-radius: 15px; border: 2px solid rgba(51,153,51,0.3); transition: all 0.3s;"
-     onmouseover="this.style.transform='translateY(-10px)'; this.style.boxShadow='0 20px 40px rgba(51,153,51,0.2)'"
-     onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='none'">
-  <div style="font-size: 40px; margin-bottom: 15px;">⚙️</div>
-  <h3 style="color: #339933; margin: 0;">Backend</h3>
-  <p style="color: #888; font-size: 14px; margin-top: 10px;">
-    Node.js • Python • Express • Django • FastAPI
-  </p>
-</div>
-
-<!-- Database Card -->
-<div style="background: rgba(30,30,40,0.8); padding: 25px; border-radius: 15px; border: 2px solid rgba(65,105,225,0.3); transition: all 0.3s;"
-     onmouseover="this.style.transform='translateY(-10px)'; this.style.boxShadow='0 20px 40px rgba(65,105,225,0.2)'"
-     onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='none'">
-  <div style="font-size: 40px; margin-bottom: 15px;">🗄️</div>
-  <h3 style="color: #4169E1; margin: 0;">Database</h3>
-  <p style="color: #888; font-size: 14px; margin-top: 10px;">
-    MongoDB • PostgreSQL • MySQL • Redis
-  </p>
-</div>
-
-<!-- DevOps Card -->
-<div style="background: rgba(30,30,40,0.8); padding: 25px; border-radius: 15px; border: 2px solid rgba(255,153,0,0.3); transition: all 0.3s;"
-     onmouseover="this.style.transform='translateY(-10px)'; this.style.boxShadow='0 20px 40px rgba(255,153,0,0.2)'"
-     onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='none'">
-  <div style="font-size: 40px; margin-bottom: 15px;">🚀</div>
-  <h3 style="color: #FF9900; margin: 0;">DevOps</h3>
-  <p style="color: #888; font-size: 14px; margin-top: 10px;">
-    Docker • AWS • Git • CI/CD • Linux
-  </p>
-</div>
-
-</div>
-
-</div>
-
----
 
 <!-- ANIMATED LANGUAGE STATISTICS -->
 <div align="center" style="margin: 60px 0;">
