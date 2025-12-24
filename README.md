@@ -1,6 +1,6 @@
 <div align="center">
 
-<!-- ANIMATED BACKGROUND -->
+<!-- ANIMATED PARTICLES BACKGROUND -->
 <svg width="100%" height="200" style="position: absolute; top: 0; left: 0; z-index: -1; opacity: 0.1;">
   <circle cx="10%" cy="30" r="3" fill="#6E7BFF">
     <animate attributeName="cy" values="30;100;30" dur="5s" repeatCount="indefinite"/>
@@ -13,9 +13,35 @@
   </circle>
 </svg>
 
-<!-- ANIMATED HEADER -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=38&duration=3000&pause=1000&color=6E7BFF&center=true&vCenter=true&width=800&lines=Hello+World+✦;System+Architect;Digital+Philosopher;Code+Poet" alt="Typing SVG" />
+<!-- ANIMATED TYPING HEADER -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=42&weight=600&duration=2800&pause=1000&color=6E7BFF&center=true&vCenter=true&width=900&lines=👋+HELLO+WORLD+✦;🚀+FULL+STACK+DEVELOPER;💡+DIGITAL+CREATOR;✨+CODE+ARTIST" alt="Typing SVG" />
 
+
+
+<!-- ANIMATED SOCIAL BADGES -->
+<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin: 30px 0;">
+  <a href="https://rajunpandey.com">
+    <div style="background: linear-gradient(45deg, #6E7BFF, #8A2BE2); padding: 12px 24px; border-radius: 25px; color: white; text-decoration: none; font-weight: bold; display: flex; align-items: center; gap: 8px; transition: all 0.3s;" 
+         onmouseover="this.style.transform='translateY(-5px)'; this.style.boxShadow='0 10px 20px rgba(110,123,255,0.3)'" 
+         onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='none'">
+      🌐 Portfolio
+    </div>
+  </a>
+  <a href="mailto:rajunpandey1234@gmail.com">
+    <div style="background: linear-gradient(45deg, #EA4335, #FBBC05); padding: 12px 24px; border-radius: 25px; color: white; text-decoration: none; font-weight: bold; display: flex; align-items: center; gap: 8px; transition: all 0.3s;" 
+         onmouseover="this.style.transform='translateY(-5px)'; this.style.boxShadow='0 10px 20px rgba(234,67,53,0.3)'" 
+         onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='none'">
+      📧 Email
+    </div>
+  </a>
+  <a href="https://linkedin.com/in/rajun-pandey">
+    <div style="background: linear-gradient(45deg, #0077B5, #00A0DC); padding: 12px 24px; border-radius: 25px; color: white; text-decoration: none; font-weight: bold; display: flex; align-items: center; gap: 8px; transition: all 0.3s;" 
+         onmouseover="this.style.transform='translateY(-5px)'; this.style.boxShadow='0 10px 20px rgba(0,119,181,0.3)'" 
+         onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='none'">
+      💼 LinkedIn
+    </div>
+  </a>
+</div>
 <!-- SOCIAL BADGES -->
 <p align="center">
   <a href="https://rajunpandey.com">
