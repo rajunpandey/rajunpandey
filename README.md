@@ -31,29 +31,6 @@
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
 </p>
-
-
-<!-- ANIMATED STATS COUNTERS -->
-<div style="display: flex; justify-content: center; gap: 30px; flex-wrap: wrap; margin: 20px 0;">
-  <div style="text-align: center;">
-    <div style="font-size: 28px; font-weight: bold; color: #6E7BFF;">👁️</div>
-    <div style="font-size: 20px; font-weight: bold;">Profile Views</div>
-    <img src="https://komarev.com/ghpvc/?username=rajunpandey&style=flat-square&color=6E7BFF&label=" />
-  </div>
-  <div style="text-align: center;">
-    <div style="font-size: 28px; font-weight: bold; color: #6E7BFF;">⭐</div>
-    <div style="font-size: 20px; font-weight: bold;">GitHub Stars</div>
-    <img src="https://img.shields.io/github/stars/rajunpandey?color=6E7BFF&style=flat-square" />
-  </div>
-  <div style="text-align: center;">
-    <div style="font-size: 28px; font-weight: bold; color: #6E7BFF;">👥</div>
-    <div style="font-size: 20px; font-weight: bold;">Followers</div>
-    <img src="https://img.shields.io/github/followers/rajunpandey?color=6E7BFF&style=flat-square" />
-  </div>
-</div>
-
-</div>
-
 <!-- LIVE COUNTERS -->
 <p>
   <img src="https://komarev.com/ghpvc/?username=rajunpandey&style=flat-square&color=6E7BFF" />
