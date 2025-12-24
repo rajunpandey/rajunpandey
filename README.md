@@ -14,9 +14,10 @@
 </svg>
 
 <!-- ANIMATED TYPING HEADER -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=42&weight=600&duration=2800&pause=1000&color=6E7BFF&center=true&vCenter=true&width=900&lines=👋+HELLO+WORLD+✦;🚀+FULL+STACK+DEVELOPER;💡+DIGITAL+CREATOR;✨+CODE+ARTIST" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=38&duration=3000&pause=1000&color=6E7BFF&center=true&vCenter=true&width=800&lines=Hello+World+✦;🚀+FULL+STACK+DEVELOPER;💡+DIGITAL+CREATOR;✨+CODE+ARTIST" alt="Typing SVG" />
 
 <!-- ANIMATED SOCIAL BADGES -->
+<p align="center">
 <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin: 30px 0;">
   <a href="https://rajunpandey.com">
     <div style="background: linear-gradient(45deg, #6E7BFF, #8A2BE2); padding: 12px 24px; border-radius: 25px; color: white; text-decoration: none; font-weight: bold; display: flex; align-items: center; gap: 8px; transition: all 0.3s;" 
