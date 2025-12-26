@@ -1,68 +1,72 @@
 <div align="center">
 
-<!-- ANIMATED PARTICLES BACKGROUND -->
-<svg width="100%" height="200" style="position: absolute; top: 0; left: 0; z-index: -1; opacity: 0.1;">
+<!-- ================= ANIMATED PARTICLES BACKGROUND ================= -->
+<svg width="100%" height="200" style="position:absolute; top:0; left:0; z-index:-1; opacity:0.12;">
   <circle cx="10%" cy="30" r="3" fill="#6E7BFF">
-    <animate attributeName="cy" values="30;100;30" dur="5s" repeatCount="indefinite"/>
+    <animate attributeName="cy" values="30;120;30" dur="5s" repeatCount="indefinite"/>
   </circle>
-  <circle cx="25%" cy="80" r="2" fill="#6E7BFF">
-    <animate attributeName="cx" values="25%;30%;25%" dur="4s" repeatCount="indefinite"/>
+  <circle cx="30%" cy="80" r="2" fill="#6E7BFF">
+    <animate attributeName="cx" values="30%;35%;30%" dur="4s" repeatCount="indefinite"/>
   </circle>
-  <circle cx="75%" cy="50" r="4" fill="#6E7BFF">
+  <circle cx="70%" cy="60" r="4" fill="#6E7BFF">
     <animate attributeName="r" values="4;2;4" dur="3s" repeatCount="indefinite"/>
   </circle>
 </svg>
 
-<!-- ANIMATED TYPING HEADER -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=38&duration=3000&pause=1000&color=6E7BFF&center=true&vCenter=true&width=800&lines=Hello+World+✦;🚀+FULL+STACK+DEVELOPER;💡+DIGITAL+CREATOR;✨+CODE+ARTIST" alt="Typing SVG" />
+<!-- ================= TYPING HEADER ================= -->
+<img 
+  src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=38&duration=3000&pause=1000&color=6E7BFF&center=true&vCenter=true&width=900&lines=Hello+World+✦;🚀+FULL+STACK+DEVELOPER;💡+DIGITAL+CREATOR;✨+CODE+ARTIST"
+  alt="Typing SVG"
+/>
 
-<!-- ANIMATED SOCIAL BADGES -->
+<!-- ================= SOCIAL BADGES ================= -->
 <p align="center">
   <a href="https://rajunpandey.com">
-    <img src="https://img.shields.io/badge/Portfolio-6E7BFF?style=for-the-badge&logo=About.me&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-6E7BFF?style=for-the-badge&logo=About.me&logoColor=white"/>
   </a>
   <a href="mailto:rajunpandey1234@gmail.com">
-    <img src="https://img.shields.io/badge/Email-FFFFFF?style=for-the-badge&logo=gmail&logoColor=6E7BFF" />
+    <img src="https://img.shields.io/badge/Email-FFFFFF?style=for-the-badge&logo=gmail&logoColor=6E7BFF"/>
   </a>
   <a href="https://linkedin.com/in/rajun-pandey">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://twitter.com/rajun_pandey">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
 </p>
 
-<!-- LIVE COUNTERS -->
+<!-- ================= LIVE COUNTERS ================= -->
 <p>
-  <img src="https://komarev.com/ghpvc/?username=rajunpandey&style=flat-square&color=6E7BFF" />
-  <img src="https://img.shields.io/github/followers/rajunpandey?color=6E7BFF&style=flat-square" />
-  <img src="https://img.shields.io/github/stars/rajunpandey?color=6E7BFF&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=rajunpandey&style=flat-square&color=6E7BFF"/>
+  <img src="https://img.shields.io/github/followers/rajunpandey?color=6E7BFF&style=flat-square"/>
+  <img src="https://img.shields.io/github/stars/rajunpandey?color=6E7BFF&style=flat-square"/>
 </p>
 
 </div>
 
 ---
 
-<!-- ANIMATED ABOUT SECTION -->
-<div style="background: linear-gradient(135deg, rgba(110,123,255,0.05) 0%, rgba(0,0,0,0) 100%); padding: 40px; border-radius: 20px; margin: 40px 0; border-left: 5px solid #6E7BFF;">
+<!-- ================= ABOUT SECTION ================= -->
+<div style="background:linear-gradient(135deg,rgba(110,123,255,0.06),rgba(0,0,0,0)); padding:40px; border-radius:20px; margin:50px 0; border-left:5px solid #6E7BFF;">
 
-## **🧠 ABOUT ME**
+## 🧠 ABOUT ME
 
-<div style="display: flex; align-items: center; gap: 30px; flex-wrap: wrap;">
-  <div style="flex: 1; min-width: 300px;">
-    <p style="font-size: 18px; line-height: 1.8; color: #FFFFFF;">
-      I'm a passionate <span style="color: #6E7BFF; font-weight: bold;">Full Stack Developer</span> who loves crafting digital experiences that make a difference. 
-      With expertise in both frontend and backend technologies, I build scalable, efficient, and user-friendly applications.
+<div style="display:flex; gap:30px; flex-wrap:wrap; align-items:center;">
+  <div style="flex:1; min-width:280px;">
+    <p style="font-size:18px; line-height:1.8;">
+      I'm a passionate <b style="color:#6E7BFF;">Full Stack Developer</b> who loves crafting scalable,
+      efficient and user-friendly digital experiences.
     </p>
-    <p style="font-size: 18px; line-height: 1.8; color: #FFFFFF; margin-top: 15px;">
-      When I'm not coding, you can find me exploring new technologies, contributing to open-source projects, 
-      or sharing knowledge through blogs and tutorials.
+    <p style="font-size:18px; line-height:1.8; margin-top:15px;">
+      I enjoy exploring new technologies, building real-world systems,
+      and sharing knowledge through clean, well-structured code.
     </p>
   </div>
-  <div style="flex-shrink: 0;">
-    <div style="width: 120px; height: 120px; background: linear-gradient(45deg, #6E7BFF, #8A2BE2); border-radius: 50%; display: flex; align-items: center; justify-content: center; font-size: 40px;">
-      👨‍💻
-    </div>
+
+  <div style="width:120px; height:120px; border-radius:50%;
+    background:linear-gradient(45deg,#6E7BFF,#8A2BE2);
+    display:flex; align-items:center; justify-content:center; font-size:40px;">
+    👨‍💻
   </div>
 </div>
 
@@ -70,168 +74,85 @@
 
 ---
 
-</div>
+<!-- ================= GITHUB ANALYTICS ================= -->
+<div align="center" style="margin:60px 0;">
 
----
+## 📈 GITHUB ACTIVITY
 
-
-
----
-
-<!-- GITHUB ANALYTICS -->
-<div align="center" style="margin: 60px 0;">
-
-## **📈 GITHUB ACTIVITY**
-
-<!-- STATS ROW -->
 <table width="100%">
 <tr>
-<td width="50%" align="center" valign="top">
-
-### **GitHub Stats**
-<img src="https://github-readme-stats.vercel.app/api?username=rajunpandey&show_icons=true&theme=dark&hide_border=true&bg_color=00000000&title_color=6E7BFF&icon_color=6E7BFF&text_color=FFFFFF&count_private=true" width="100%" />
-
+<td width="50%">
+<img src="https://github-readme-stats.vercel.app/api?username=rajunpandey&show_icons=true&theme=dark&hide_border=true&bg_color=00000000&title_color=6E7BFF&icon_color=6E7BFF&text_color=FFFFFF"/>
 </td>
-<td width="50%" align="center" valign="top">
-
-### **Top Languages**
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajunpandey&layout=compact&theme=dark&hide_border=true&bg_color=00000000&title_color=6E7BFF&text_color=FFFFFF&langs_count=6" width="100%" />
-
+<td width="50%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajunpandey&layout=compact&theme=dark&hide_border=true&bg_color=00000000&title_color=6E7BFF&text_color=FFFFFF"/>
 </td>
 </tr>
 </table>
 
-<!-- STREAK STATS -->
-<div style="margin: 40px 0;">
-<img src="https://streak-stats.demolab.com?user=rajunpandey&theme=dark&hide_border=true&background=00000000&ring=6E7BFF&fire=6E7BFF&currStreakLabel=6E7BFF&sideLabels=6E7BFF&sideNums=FFFFFF" width="100%" />
-</div>
+<br/>
 
-<!-- ACTIVITY GRAPH -->
-<div style="margin: 40px 0;">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rajunpandey&theme=react-dark&hide_border=true&bg_color=00000000&line=6E7BFF&point=FFFFFF&area=true&area_color=6E7BFF" width="100%" />
-</div>
+<img src="https://streak-stats.demolab.com?user=rajunpandey&theme=dark&hide_border=true&background=00000000&ring=6E7BFF&fire=6E7BFF&currStreakLabel=6E7BFF"/>
 
-<!-- SNAKE ANIMATION -->
-<div style="margin: 40px 0; padding: 20px; background: rgba(110,123,255,0.05); border-radius: 15px;">
-<h3>🐍 Contribution Snake</h3>
-<img src="https://raw.githubusercontent.com/rajunpandey/rajunpandey/output/github-contribution-grid-snake.svg" width="100%" />
-</div>
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rajunpandey&theme=react-dark&hide_border=true&bg_color=00000000&line=6E7BFF&area=true"/>
+
+<br/><br/>
+
+<img src="https://raw.githubusercontent.com/rajunpandey/rajunpandey/output/github-contribution-grid-snake.svg"/>
 
 </div>
 
 ---
 
-<!-- TECHNICAL LANDSCAPE BADGES -->
-<div align="center" style="margin: 40px 0;">
+<!-- ================= TECH STACK ================= -->
+<div align="center">
 
-## **🎯 TECHNICAL LANDSCAPE**
+## 🎯 TECHNICAL LANDSCAPE
 
-<p align="center">
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+<p>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker"/>
+<img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws"/>
 </p>
 
 </div>
 
 ---
 
-<!-- GET IN TOUCH SECTION -->
+<!-- ================= CONTACT ================= -->
 <div align="center">
 
-## **📬 GET IN TOUCH**
+## 📬 GET IN TOUCH
 
-<!-- ENHANCED ICONS8 LOGOS WITH ANIMATIONS -->
-<table width="100%" cellpadding="0" cellspacing="0" style="border-collapse: separate; border-spacing: 25px; margin: 40px 0;">
-<tr align="center">
-
-<!-- EMAIL -->
-<td align="center" width="25%" valign="top">
-<a href="mailto:rajunpandey1234@gmail.com" style="text-decoration: none;">
-  <div style="background: linear-gradient(145deg, rgba(110,123,255,0.15), rgba(110,123,255,0.05)); padding: 25px; border-radius: 16px; border: 1.5px solid rgba(110,123,255,0.25); backdrop-filter: blur(10px); transition: all 0.4s; height: 220px; display: flex; flex-direction: column; justify-content: center; align-items: center;"
-       onmouseover="this.style.transform='translateY(-8px)'; this.style.boxShadow='0 20px 40px rgba(234,67,53,0.2)'; this.style.borderColor='rgba(234,67,53,0.4)';"
-       onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='none'; this.style.borderColor='rgba(110,123,255,0.25)'">
-    <img src="https://img.icons8.com/fluency/96/new-post.png" width="64" height="64" alt="Email"/><br/>
-    <div style="font-weight: 700; color: #EA4335; margin: 15px 0 5px; font-size: 18px;">EMAIL</div>
-    <div style="color: #94A3B8; font-size: 14px; line-height: 1.4; opacity: 0.9; margin-bottom: 10px;">
-      Let's build something meaningful
-    </div>
-    <div style="margin-top: 8px; color: #EA4335; font-size: 13px; font-weight: 500;">
-      Click to connect →
-    </div>
-  </div>
+<p>
+<a href="mailto:rajunpandey1234@gmail.com">
+  <img src="https://img.icons8.com/fluency/96/new-post.png" width="60"/>
 </a>
-</td>
-
-<!-- LINKEDIN -->
-<td align="center" width="25%" valign="top">
-<a href="https://linkedin.com/in/rajun-pandey" style="text-decoration: none;">
-  <div style="background: linear-gradient(145deg, rgba(110,123,255,0.15), rgba(110,123,255,0.05)); padding: 25px; border-radius: 16px; border: 1.5px solid rgba(110,123,255,0.25); backdrop-filter: blur(10px); transition: all 0.4s; height: 220px; display: flex; flex-direction: column; justify-content: center; align-items: center;"
-       onmouseover="this.style.transform='translateY(-8px)'; this.style.boxShadow='0 20px 40px rgba(0,119,181,0.2)'; this.style.borderColor='rgba(0,119,181,0.4)';"
-       onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='none'; this.style.borderColor='rgba(110,123,255,0.25)'">
-    <img src="https://img.icons8.com/fluency/96/linkedin.png" width="64" height="64" alt="LinkedIn"/><br/>
-    <div style="font-weight: 700; color: #0077B5; margin: 15px 0 5px; font-size: 18px;">LINKEDIN</div>
-    <div style="color: #94A3B8; font-size: 14px; line-height: 1.4; opacity: 0.9; margin-bottom: 10px;">
-      Professional presence
-    </div>
-    <div style="margin-top: 8px; color: #0077B5; font-size: 13px; font-weight: 500;">
-      Connect professionally →
-    </div>
-  </div>
+<a href="https://linkedin.com/in/rajun-pandey">
+  <img src="https://img.icons8.com/fluency/96/linkedin.png" width="60"/>
 </a>
-</td>
-
-<!-- GITHUB -->
-<td align="center" width="25%" valign="top">
-<a href="https://github.com/rajunpandey" style="text-decoration: none;">
-  <div style="background: linear-gradient(145deg, rgba(110,123,255,0.15), rgba(110,123,255,0.05)); padding: 25px; border-radius: 16px; border: 1.5px solid rgba(110,123,255,0.25); backdrop-filter: blur(10px); transition: all 0.4s; height: 220px; display: flex; flex-direction: column; justify-content: center; align-items: center;"
-       onmouseover="this.style.transform='translateY(-8px)'; this.style.boxShadow='0 20px 40px rgba(36,41,46,0.2)'; this.style.borderColor='rgba(36,41,46,0.4)';"
-       onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='none'; this.style.borderColor='rgba(110,123,255,0.25)'">
-    <img src="https://img.icons8.com/fluency/96/github.png" width="64" height="64" alt="GitHub"/><br/>
-    <div style="font-weight: 700; color: #24292E; margin: 15px 0 5px; font-size: 18px;">GITHUB</div>
-    <div style="color: #94A3B8; font-size: 14px; line-height: 1.4; opacity: 0.9; margin-bottom: 10px;">
-      Code & experiments
-    </div>
-    <div style="margin-top: 8px; color: #24292E; font-size: 13px; font-weight: 500;">
-      View repositories →
-    </div>
-  </div>
+<a href="https://github.com/rajunpandey">
+  <img src="https://img.icons8.com/fluency/96/github.png" width="60"/>
 </a>
-</td>
-
-<!-- TWITTER -->
-<td align="center" width="25%" valign="top">
-<a href="https://twitter.com/rajun_pandey" style="text-decoration: none;">
-  <div style="background: linear-gradient(145deg, rgba(110,123,255,0.15), rgba(110,123,255,0.05)); padding: 25px; border-radius: 16px; border: 1.5px solid rgba(110,123,255,0.25); backdrop-filter: blur(10px); transition: all 0.4s; height: 220px; display: flex; flex-direction: column; justify-content: center; align-items: center;"
-       onmouseover="this.style.transform='translateY(-8px)'; this.style.boxShadow='0 20px 40px rgba(29,161,242,0.2)'; this.style.borderColor='rgba(29,161,242,0.4)';"
-       onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='none'; this.style.borderColor='rgba(110,123,255,0.25)'">
-    <img src="https://img.icons8.com/fluency/96/twitter.png" width="64" height="64" alt="Twitter"/><br/>
-    <div style="font-weight: 700; color: #1DA1F2; margin: 15px 0 5px; font-size: 18px;">TWITTER</div>
-    <div style="color: #94A3B8; font-size: 14px; line-height: 1.4; opacity: 0.9; margin-bottom: 10px;">
-      Thoughts & updates
-    </div>
-    <div style="margin-top: 8px; color: #1DA1F2; font-size: 13px; font-weight: 500;">
-      Follow for updates →
-    </div>
-  </div>
+<a href="https://twitter.com/rajun_pandey">
+  <img src="https://img.icons8.com/fluency/96/twitter.png" width="60"/>
 </a>
-</td>
+</p>
 
-</tr>
-</table>
+<hr style="width:60%; border:1px solid rgba(110,123,255,0.3);"/>
 
-<!-- MODERN FOOTER -->
-<div style="margin-top: 60px; padding: 30px 0; border-top: 1px solid rgba(110,123,255,0.2);">
-  <div style="font-size: 18px; color: #6E7BFF; margin-bottom: 10px; font-weight: 300; letter-spacing: 0.5px;">
-    CRAFTED WITH PASSION • BUILT WITH CODE
-  </div>
-  <div style="font-size: 14px; color: #94A3B8;">
-    © 2024 Rajan Pandey • Full Stack Developer • Digital Creator
-  </div>
-</div>
+<p style="color:#6E7BFF; font-size:18px;">
+CRAFTED WITH PASSION • BUILT WITH CODE
+</p>
+
+<p style="font-size:14px; color:#94A3B8;">
+© 2024 Rajan Pandey • Full Stack Developer
+</p>
 
 </div>
