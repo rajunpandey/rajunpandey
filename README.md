@@ -17,7 +17,6 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=38&duration=3000&pause=1000&color=6E7BFF&center=true&vCenter=true&width=800&lines=Hello+World+✦;🚀+FULL+STACK+DEVELOPER;💡+DIGITAL+CREATOR;✨+CODE+ARTIST" alt="Typing SVG" />
 
 <!-- ANIMATED SOCIAL BADGES -->
-<!-- SOCIAL BADGES -->
 <p align="center">
   <a href="https://rajunpandey.com">
     <img src="https://img.shields.io/badge/Portfolio-6E7BFF?style=for-the-badge&logo=About.me&logoColor=white" />
@@ -71,29 +70,147 @@
 
 ---
 
-<!-- ANIMATED TECH STACK SECTION -->
+<!-- TECHNICAL STACK SECTION -->
 <div align="center" style="margin: 60px 0;">
 
+## **🛠️ TECHNICAL EXPERTISE**
 
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 25px; margin: 40px 0; max-width: 800px;">
 
-<!-- ANIMATED LANGUAGE STATISTICS -->
+<!-- Frontend -->
+<div style="background: rgba(30,30,40,0.8); padding: 25px; border-radius: 15px; border: 2px solid rgba(97,218,251,0.3);">
+  <div style="font-size: 40px; margin-bottom: 15px;">🎨</div>
+  <h3 style="color: #61DAFB; margin: 0;">Frontend</h3>
+  <p style="color: #888; font-size: 14px; margin-top: 10px;">
+    React • TypeScript • HTML5 • CSS3 • Tailwind
+  </p>
+</div>
+
+<!-- Backend -->
+<div style="background: rgba(30,30,40,0.8); padding: 25px; border-radius: 15px; border: 2px solid rgba(51,153,51,0.3);">
+  <div style="font-size: 40px; margin-bottom: 15px;">⚙️</div>
+  <h3 style="color: #339933; margin: 0;">Backend</h3>
+  <p style="color: #888; font-size: 14px; margin-top: 10px;">
+    Node.js • Python • Express • Django • FastAPI
+  </p>
+</div>
+
+<!-- Database -->
+<div style="background: rgba(30,30,40,0.8); padding: 25px; border-radius: 15px; border: 2px solid rgba(65,105,225,0.3);">
+  <div style="font-size: 40px; margin-bottom: 15px;">🗄️</div>
+  <h3 style="color: #4169E1; margin: 0;">Database</h3>
+  <p style="color: #888; font-size: 14px; margin-top: 10px;">
+    MongoDB • PostgreSQL • MySQL • Redis
+  </p>
+</div>
+
+<!-- DevOps -->
+<div style="background: rgba(30,30,40,0.8); padding: 25px; border-radius: 15px; border: 2px solid rgba(255,153,0,0.3);">
+  <div style="font-size: 40px; margin-bottom: 15px;">🚀</div>
+  <h3 style="color: #FF9900; margin: 0;">DevOps</h3>
+  <p style="color: #888; font-size: 14px; margin-top: 10px;">
+    Docker • AWS • Git • CI/CD • Linux
+  </p>
+</div>
+
+</div>
+
+</div>
+
+---
+
+<!-- LANGUAGE STATISTICS -->
 <div align="center" style="margin: 60px 0;">
 
-## **📊 GITHUB ANALYTICS**
+## **📊 LANGUAGE STATISTICS**
+
+<!-- Language Progress Bars -->
+<div style="max-width: 800px; margin: 40px auto;">
+
+<div style="margin: 20px 0;">
+  <div style="display: flex; justify-content: space-between; margin-bottom: 8px;">
+    <span style="color: #FFFFFF; font-weight: bold;">🎨 CSS</span>
+    <span style="color: #6E7BFF; font-weight: bold;">37.43%</span>
+  </div>
+  <div style="width: 100%; height: 20px; background: rgba(110,123,255,0.1); border-radius: 10px; overflow: hidden;">
+    <div style="width: 37.43%; height: 100%; background: linear-gradient(90deg, #6E7BFF, #8A2BE2); border-radius: 10px;"></div>
+  </div>
+</div>
+
+<div style="margin: 20px 0;">
+  <div style="display: flex; justify-content: space-between; margin-bottom: 8px;">
+    <span style="color: #FFFFFF; font-weight: bold;">🐍 Python</span>
+    <span style="color: #6E7BFF; font-weight: bold;">22.41%</span>
+  </div>
+  <div style="width: 100%; height: 20px; background: rgba(110,123,255,0.1); border-radius: 10px; overflow: hidden;">
+    <div style="width: 22.41%; height: 100%; background: linear-gradient(90deg, #3776AB, #FFD43B); border-radius: 10px;"></div>
+  </div>
+</div>
+
+<div style="margin: 20px 0;">
+  <div style="display: flex; justify-content: space-between; margin-bottom: 8px;">
+    <span style="color: #FFFFFF; font-weight: bold;">🌐 HTML</span>
+    <span style="color: #6E7BFF; font-weight: bold;">19.47%</span>
+  </div>
+  <div style="width: 100%; height: 20px; background: rgba(110,123,255,0.1); border-radius: 10px; overflow: hidden;">
+    <div style="width: 19.47%; height: 100%; background: linear-gradient(90deg, #E34F26, #F06529); border-radius: 10px;"></div>
+  </div>
+</div>
+
+<div style="margin: 20px 0;">
+  <div style="display: flex; justify-content: space-between; margin-bottom: 8px;">
+    <span style="color: #FFFFFF; font-weight: bold;">⚡ JavaScript</span>
+    <span style="color: #6E7BFF; font-weight: bold;">10.86%</span>
+  </div>
+  <div style="width: 100%; height: 20px; background: rgba(110,123,255,0.1); border-radius: 10px; overflow: hidden;">
+    <div style="width: 10.86%; height: 100%; background: linear-gradient(90deg, #F7DF1E, #F0DB4F); border-radius: 10px;"></div>
+  </div>
+</div>
+
+<div style="margin: 20px 0;">
+  <div style="display: flex; justify-content: space-between; margin-bottom: 8px;">
+    <span style="color: #FFFFFF; font-weight: bold;">📓 Jupyter Notebook</span>
+    <span style="color: #6E7BFF; font-weight: bold;">7.74%</span>
+  </div>
+  <div style="width: 100%; height: 20px; background: rgba(110,123,255,0.1); border-radius: 10px; overflow: hidden;">
+    <div style="width: 7.74%; height: 100%; background: linear-gradient(90deg, #F37626, #F37626); border-radius: 10px;"></div>
+  </div>
+</div>
+
+<div style="margin: 20px 0;">
+  <div style="display: flex; justify-content: space-between; margin-bottom: 8px;">
+    <span style="color: #FFFFFF; font-weight: bold;">🎀 SCSS</span>
+    <span style="color: #6E7BFF; font-weight: bold;">2.59%</span>
+  </div>
+  <div style="width: 100%; height: 20px; background: rgba(110,123,255,0.1); border-radius: 10px; overflow: hidden;">
+    <div style="width: 2.59%; height: 100%; background: linear-gradient(90deg, #CC6699, #CD6799); border-radius: 10px;"></div>
+  </div>
+</div>
+
+</div>
+
+</div>
+
+---
+
+<!-- GITHUB ANALYTICS -->
+<div align="center" style="margin: 60px 0;">
+
+## **📈 GITHUB ACTIVITY**
 
 <!-- STATS ROW -->
-<table>
+<table width="100%">
 <tr>
-<td width="50%" align="center">
+<td width="50%" align="center" valign="top">
 
 ### **GitHub Stats**
-<img src="https://github-readme-stats.vercel.app/api?username=rajunpandey&show_icons=true&theme=dark&hide_border=true&bg_color=00000000&title_color=6E7BFF&icon_color=6E7BFF&text_color=FFFFFF" />
+<img src="https://github-readme-stats.vercel.app/api?username=rajunpandey&show_icons=true&theme=dark&hide_border=true&bg_color=00000000&title_color=6E7BFF&icon_color=6E7BFF&text_color=FFFFFF&count_private=true" width="100%" />
 
 </td>
-<td width="50%" align="center">
+<td width="50%" align="center" valign="top">
 
 ### **Top Languages**
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajunpandey&layout=compact&theme=dark&hide_border=true&bg_color=00000000&title_color=6E7BFF&text_color=FFFFFF" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajunpandey&layout=compact&theme=dark&hide_border=true&bg_color=00000000&title_color=6E7BFF&text_color=FFFFFF&langs_count=6" width="100%" />
 
 </td>
 </tr>
@@ -101,12 +218,12 @@
 
 <!-- STREAK STATS -->
 <div style="margin: 40px 0;">
-<img src="https://streak-stats.demolab.com?user=rajunpandey&theme=dark&hide_border=true&background=00000000&ring=6E7BFF&fire=6E7BFF&currStreakLabel=6E7BFF&sideLabels=6E7BFF&sideNums=FFFFFF" />
+<img src="https://streak-stats.demolab.com?user=rajunpandey&theme=dark&hide_border=true&background=00000000&ring=6E7BFF&fire=6E7BFF&currStreakLabel=6E7BFF&sideLabels=6E7BFF&sideNums=FFFFFF" width="100%" />
 </div>
 
 <!-- ACTIVITY GRAPH -->
 <div style="margin: 40px 0;">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rajunpandey&theme=react-dark&hide_border=true&bg_color=00000000&line=6E7BFF&point=FFFFFF&area=true&area_color=6E7BFF" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rajunpandey&theme=react-dark&hide_border=true&bg_color=00000000&line=6E7BFF&point=FFFFFF&area=true&area_color=6E7BFF" width="100%" />
 </div>
 
 <!-- SNAKE ANIMATION -->
@@ -119,12 +236,12 @@
 
 ---
 
-<div align="center">
+<!-- TECHNICAL LANDSCAPE BADGES -->
+<div align="center" style="margin: 40px 0;">
 
 ## **🎯 TECHNICAL LANDSCAPE**
 
 <p align="center">
-<!-- TECH STACK BADGES -->
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
@@ -138,6 +255,7 @@
 
 ---
 
+<!-- GET IN TOUCH SECTION -->
 <div align="center">
 
 ## **📬 GET IN TOUCH**
