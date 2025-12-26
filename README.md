@@ -140,9 +140,11 @@
 
 <div align="center">
 
+<div align="center">
+
 ## **📬 LET'S CONNECT**
 
-<!-- HORIZONTAL TABLE LAYOUT -->
+<!-- HORIZONTAL CONTACT CARDS WITH OFFICIAL LOGOS -->
 <table width="100%" cellpadding="0" cellspacing="0" style="border-collapse: separate; border-spacing: 25px; margin: 40px 0;">
 <tr align="center">
 
@@ -156,8 +158,11 @@
       📧
     </div>
     <div style="font-weight: 700; color: #6E7BFF; margin-bottom: 8px; font-size: 18px;">EMAIL</div>
-    <div style="color: #94A3B8; font-size: 14px; line-height: 1.4; opacity: 0.9; margin-bottom: 15px;">
-      Let's discuss your project
+    <div style="color: #94A3B8; font-size: 14px; line-height: 1.4; opacity: 0.9;">
+      Discuss projects & ideas
+    </div>
+    <div style="margin-top: 10px; color: #6E7BFF; font-size: 13px; font-weight: 500;">
+      Click to connect →
     </div>
   </div>
 </a>
@@ -169,12 +174,15 @@
   <div style="background: linear-gradient(145deg, rgba(110,123,255,0.15), rgba(110,123,255,0.05)); padding: 25px; border-radius: 16px; border: 1.5px solid rgba(110,123,255,0.25); backdrop-filter: blur(10px); transition: all 0.4s; height: 200px; display: flex; flex-direction: column; justify-content: center;"
        onmouseover="this.style.transform='translateY(-8px)'; this.style.boxShadow='0 20px 40px rgba(0,119,181,0.2)'; this.style.borderColor='rgba(0,119,181,0.4)'"
        onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='none'; this.style.borderColor='rgba(110,123,255,0.25)'">
-    <div style="width: 50px; height: 50px; background: linear-gradient(135deg, #0077B5, #00A0DC); border-radius: 50%; margin: 0 auto 15px; display: flex; align-items: center; justify-content: center; font-size: 24px; color: white;">
-      💼
+    <div style="width: 50px; height: 50px; background: white; border-radius: 50%; margin: 0 auto 15px; display: flex; align-items: center; justify-content: center;">
+      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" alt="LinkedIn" width="28" height="28" style="filter: brightness(0) saturate(100%) invert(25%) sepia(98%) saturate(2030%) hue-rotate(185deg) brightness(90%) contrast(101%);" />
     </div>
     <div style="font-weight: 700; color: #0077B5; margin-bottom: 8px; font-size: 18px;">LINKEDIN</div>
-    <div style="color: #94A3B8; font-size: 14px; line-height: 1.4; opacity: 0.9; margin-bottom: 15px;">
+    <div style="color: #94A3B8; font-size: 14px; line-height: 1.4; opacity: 0.9;">
       Professional network
+    </div>
+    <div style="margin-top: 10px; color: #0077B5; font-size: 13px; font-weight: 500;">
+      Connect professionally →
     </div>
   </div>
 </a>
@@ -186,12 +194,15 @@
   <div style="background: linear-gradient(145deg, rgba(110,123,255,0.15), rgba(110,123,255,0.05)); padding: 25px; border-radius: 16px; border: 1.5px solid rgba(110,123,255,0.25); backdrop-filter: blur(10px); transition: all 0.4s; height: 200px; display: flex; flex-direction: column; justify-content: center;"
        onmouseover="this.style.transform='translateY(-8px)'; this.style.boxShadow='0 20px 40px rgba(36,41,46,0.2)'; this.style.borderColor='rgba(36,41,46,0.4)'"
        onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='none'; this.style.borderColor='rgba(110,123,255,0.25)'">
-    <div style="width: 50px; height: 50px; background: linear-gradient(135deg, #24292E, #3F4448); border-radius: 50%; margin: 0 auto 15px; display: flex; align-items: center; justify-content: center; font-size: 24px; color: white;">
-      💻
+    <div style="width: 50px; height: 50px; background: white; border-radius: 50%; margin: 0 auto 15px; display: flex; align-items: center; justify-content: center;">
+      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/github.svg" alt="GitHub" width="28" height="28" style="filter: brightness(0) saturate(100%) invert(0%) sepia(0%) saturate(0%) hue-rotate(0deg) brightness(0%) contrast(100%);" />
     </div>
     <div style="font-weight: 700; color: #24292E; margin-bottom: 8px; font-size: 18px;">GITHUB</div>
-    <div style="color: #94A3B8; font-size: 14px; line-height: 1.4; opacity: 0.9; margin-bottom: 15px;">
-      Explore my projects
+    <div style="color: #94A3B8; font-size: 14px; line-height: 1.4; opacity: 0.9;">
+      Explore my code
+    </div>
+    <div style="margin-top: 10px; color: #24292E; font-size: 13px; font-weight: 500;">
+      View repositories →
     </div>
   </div>
 </a>
@@ -203,12 +214,15 @@
   <div style="background: linear-gradient(145deg, rgba(110,123,255,0.15), rgba(110,123,255,0.05)); padding: 25px; border-radius: 16px; border: 1.5px solid rgba(110,123,255,0.25); backdrop-filter: blur(10px); transition: all 0.4s; height: 200px; display: flex; flex-direction: column; justify-content: center;"
        onmouseover="this.style.transform='translateY(-8px)'; this.style.boxShadow='0 20px 40px rgba(29,161,242,0.2)'; this.style.borderColor='rgba(29,161,242,0.4)'"
        onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='none'; this.style.borderColor='rgba(110,123,255,0.25)'">
-    <div style="width: 50px; height: 50px; background: linear-gradient(135deg, #1DA1F2, #1C9CEA); border-radius: 50%; margin: 0 auto 15px; display: flex; align-items: center; justify-content: center; font-size: 24px; color: white;">
-      🐦
+    <div style="width: 50px; height: 50px; background: white; border-radius: 50%; margin: 0 auto 15px; display: flex; align-items: center; justify-content: center;">
+      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/twitter.svg" alt="Twitter" width="28" height="28" style="filter: brightness(0) saturate(100%) invert(44%) sepia(99%) saturate(748%) hue-rotate(166deg) brightness(99%) contrast(93%);" />
     </div>
     <div style="font-weight: 700; color: #1DA1F2; margin-bottom: 8px; font-size: 18px;">TWITTER</div>
-    <div style="color: #94A3B8; font-size: 14px; line-height: 1.4; opacity: 0.9; margin-bottom: 15px;">
-      Tech thoughts & updates
+    <div style="color: #94A3B8; font-size: 14px; line-height: 1.4; opacity: 0.9;">
+      Tech thoughts
+    </div>
+    <div style="margin-top: 10px; color: #1DA1F2; font-size: 13px; font-weight: 500;">
+      Follow for updates →
     </div>
   </div>
 </a>
