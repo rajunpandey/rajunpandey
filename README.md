@@ -139,57 +139,43 @@
 ---
 
 <div align="center">
-## **📬 GET IN TOUCH**
+## 📬 Get in Touch
 
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 20px; max-width: 800px; margin: 40px auto;">
-
-<!-- Email Card -->
-<a href="mailto:rajunpandey1234@gmail.com" style="text-decoration: none;">
-  <div style="background: rgba(110,123,255,0.1); padding: 30px; border-radius: 15px; border: 2px solid rgba(110,123,255,0.3); transition: all 0.3s;"
-       onmouseover="this.style.transform='translateY(-10px)'; this.style.background='rgba(110,123,255,0.2)'"
-       onmouseout="this.style.transform='translateY(0)'; this.style.background='rgba(110,123,255,0.1)'">
-    <div style="font-size: 40px; margin-bottom: 15px;">📧</div>
-    <div style="font-weight: bold; color: #6E7BFF; margin-bottom: 10px;">Email</div>
-    <div style="color: #888; font-size: 14px;">Let's discuss your project</div>
-  </div>
+<table>
+<tr>
+<td align="center" width="200">
+<a href="mailto:rajunpandey1234@gmail.com">
+<img src="https://img.icons8.com/fluency/96/new-post.png"/><br/>
+<b>Email</b><br/>
+<sub>Let’s build something meaningful</sub>
 </a>
+</td>
 
-<!-- LinkedIn Card -->
-<a href="https://linkedin.com/in/rajun-pandey" style="text-decoration: none;">
-  <div style="background: rgba(110,123,255,0.1); padding: 30px; border-radius: 15px; border: 2px solid rgba(110,123,255,0.3); transition: all 0.3s;"
-       onmouseover="this.style.transform='translateY(-10px)'; this.style.background='rgba(110,123,255,0.2)'"
-       onmouseout="this.style.transform='translateY(0)'; this.style.background='rgba(110,123,255,0.1)'">
-    <div style="font-size: 40px; margin-bottom: 15px;">💼</div>
-    <div style="font-weight: bold; color: #6E7BFF; margin-bottom: 10px;">LinkedIn</div>
-    <div style="color: #888; font-size: 14px;">Professional network</div>
-  </div>
+<td align="center" width="200">
+<a href="https://linkedin.com/in/rajun-pandey">
+<img src="https://img.icons8.com/fluency/96/linkedin.png"/><br/>
+<b>LinkedIn</b><br/>
+<sub>Professional presence</sub>
 </a>
+</td>
 
-<!-- GitHub Card -->
-<a href="https://github.com/rajunpandey" style="text-decoration: none;">
-  <div style="background: rgba(110,123,255,0.1); padding: 30px; border-radius: 15px; border: 2px solid rgba(110,123,255,0.3); transition: all 0.3s;"
-       onmouseover="this.style.transform='translateY(-10px)'; this.style.background='rgba(110,123,255,0.2)'"
-       onmouseout="this.style.transform='translateY(0)'; this.style.background='rgba(110,123,255,0.1)'">
-    <div style="font-size: 40px; margin-bottom: 15px;">💻</div>
-    <div style="font-weight: bold; color: #6E7BFF; margin-bottom: 10px;">GitHub</div>
-    <div style="color: #888; font-size: 14px;">Explore my projects</div>
-  </div>
+<td align="center" width="200">
+<a href="https://github.com/rajunpandey">
+<img src="https://img.icons8.com/fluency/96/github.png"/><br/>
+<b>GitHub</b><br/>
+<sub>Code & experiments</sub>
 </a>
+</td>
 
-<!-- Twitter Card -->
-<a href="https://twitter.com/rajun_pandey" style="text-decoration: none;">
-  <div style="background: rgba(110,123,255,0.1); padding: 30px; border-radius: 15px; border: 2px solid rgba(110,123,255,0.3); transition: all 0.3s;"
-       onmouseover="this.style.transform='translateY(-10px)'; this.style.background='rgba(110,123,255,0.2)'"
-       onmouseout="this.style.transform='translateY(0)'; this.style.background='rgba(110,123,255,0.1)'">
-    <div style="font-size: 40px; margin-bottom: 15px;">🐦</div>
-    <div style="font-weight: bold; color: #6E7BFF; margin-bottom: 10px;">Twitter</div>
-    <div style="color: #888; font-size: 14px;">Tech thoughts & updates</div>
-  </div>
+<td align="center" width="200">
+<a href="https://twitter.com/rajun_pandey">
+<img src="https://img.icons8.com/fluency/96/twitter.png"/><br/>
+<b>Twitter</b><br/>
+<sub>Thoughts & updates</sub>
 </a>
-
-</div>
-
-</div>
+</td>
+</tr>
+</table>
 
 ---
 
