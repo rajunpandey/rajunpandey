@@ -139,116 +139,90 @@
 ---
 
 <div align="center">
-<div align="center">
 
 ## **📬 LET'S CONNECT**
 
-<div align="center">
+<!-- HORIZONTAL TABLE LAYOUT -->
+<table width="100%" cellpadding="0" cellspacing="0" style="border-collapse: separate; border-spacing: 25px; margin: 40px 0;">
+<tr align="center">
 
-## **📬 LET'S CONNECT**
-
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(180px, 1fr)); gap: 25px; max-width: 900px; margin: 40px auto;">
-
-<!-- Email Card -->
-<a href="mailto:rajunpandey1234@gmail.com" style="text-decoration: none; position: relative;">
-  <div style="background: linear-gradient(145deg, rgba(110,123,255,0.15), rgba(110,123,255,0.05)); padding: 25px; border-radius: 16px; border: 1.5px solid rgba(110,123,255,0.25); backdrop-filter: blur(10px); transition: all 0.4s cubic-bezier(0.4, 0, 0.2, 1); box-shadow: 0 8px 32px rgba(110,123,255,0.1);"
-       onmouseover="this.style.transform='translateY(-8px) scale(1.02)'; this.style.boxShadow='0 20px 40px rgba(110,123,255,0.2)'; this.style.borderColor='rgba(110,123,255,0.4)'"
-       onmouseout="this.style.transform='translateY(0) scale(1)'; this.style.boxShadow='0 8px 32px rgba(110,123,255,0.1)'; this.style.borderColor='rgba(110,123,255,0.25)'">
-    <div style="width: 60px; height: 60px; background: linear-gradient(135deg, #EA4335, #FBBC05); border-radius: 50%; margin: 0 auto 20px; display: flex; align-items: center; justify-content: center; font-size: 28px; color: white; box-shadow: 0 8px 20px rgba(234,67,53,0.3);">
+<!-- EMAIL -->
+<td width="25%" valign="top">
+<a href="mailto:rajunpandey1234@gmail.com" style="text-decoration: none;">
+  <div style="background: linear-gradient(145deg, rgba(110,123,255,0.15), rgba(110,123,255,0.05)); padding: 25px; border-radius: 16px; border: 1.5px solid rgba(110,123,255,0.25); backdrop-filter: blur(10px); transition: all 0.4s; height: 200px; display: flex; flex-direction: column; justify-content: center;"
+       onmouseover="this.style.transform='translateY(-8px)'; this.style.boxShadow='0 20px 40px rgba(110,123,255,0.2)'; this.style.borderColor='rgba(110,123,255,0.4)'"
+       onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='none'; this.style.borderColor='rgba(110,123,255,0.25)'">
+    <div style="width: 50px; height: 50px; background: linear-gradient(135deg, #EA4335, #FBBC05); border-radius: 50%; margin: 0 auto 15px; display: flex; align-items: center; justify-content: center; font-size: 24px; color: white;">
       📧
     </div>
-    <div style="font-weight: 700; color: #6E7BFF; margin-bottom: 8px; font-size: 18px; letter-spacing: 0.5px;">EMAIL</div>
-    <div style="color: #94A3B8; font-size: 14px; line-height: 1.5; opacity: 0.9;">Discuss projects & ideas</div>
-    <div style="margin-top: 15px; color: #6E7BFF; font-size: 13px; font-weight: 500;">
-      Click to connect →
+    <div style="font-weight: 700; color: #6E7BFF; margin-bottom: 8px; font-size: 18px;">EMAIL</div>
+    <div style="color: #94A3B8; font-size: 14px; line-height: 1.4; opacity: 0.9; margin-bottom: 15px;">
+      Let's discuss your project
     </div>
   </div>
 </a>
+</td>
 
-<!-- LinkedIn Card -->
-<a href="https://linkedin.com/in/rajun-pandey" style="text-decoration: none; position: relative;">
-  <div style="background: linear-gradient(145deg, rgba(110,123,255,0.15), rgba(110,123,255,0.05)); padding: 25px; border-radius: 16px; border: 1.5px solid rgba(110,123,255,0.25); backdrop-filter: blur(10px); transition: all 0.4s cubic-bezier(0.4, 0, 0.2, 1); box-shadow: 0 8px 32px rgba(110,123,255,0.1);"
-       onmouseover="this.style.transform='translateY(-8px) scale(1.02)'; this.style.boxShadow='0 20px 40px rgba(0,119,181,0.2)'; this.style.borderColor='rgba(0,119,181,0.4)'"
-       onmouseout="this.style.transform='translateY(0) scale(1)'; this.style.boxShadow='0 8px 32px rgba(110,123,255,0.1)'; this.style.borderColor='rgba(110,123,255,0.25)'">
-    <div style="width: 60px; height: 60px; background: linear-gradient(135deg, #0077B5, #00A0DC); border-radius: 50%; margin: 0 auto 20px; display: flex; align-items: center; justify-content: center; font-size: 28px; color: white; box-shadow: 0 8px 20px rgba(0,119,181,0.3);">
+<!-- LINKEDIN -->
+<td width="25%" valign="top">
+<a href="https://linkedin.com/in/rajun-pandey" style="text-decoration: none;">
+  <div style="background: linear-gradient(145deg, rgba(110,123,255,0.15), rgba(110,123,255,0.05)); padding: 25px; border-radius: 16px; border: 1.5px solid rgba(110,123,255,0.25); backdrop-filter: blur(10px); transition: all 0.4s; height: 200px; display: flex; flex-direction: column; justify-content: center;"
+       onmouseover="this.style.transform='translateY(-8px)'; this.style.boxShadow='0 20px 40px rgba(0,119,181,0.2)'; this.style.borderColor='rgba(0,119,181,0.4)'"
+       onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='none'; this.style.borderColor='rgba(110,123,255,0.25)'">
+    <div style="width: 50px; height: 50px; background: linear-gradient(135deg, #0077B5, #00A0DC); border-radius: 50%; margin: 0 auto 15px; display: flex; align-items: center; justify-content: center; font-size: 24px; color: white;">
       💼
     </div>
-    <div style="font-weight: 700; color: #0077B5; margin-bottom: 8px; font-size: 18px; letter-spacing: 0.5px;">LINKEDIN</div>
-    <div style="color: #94A3B8; font-size: 14px; line-height: 1.5; opacity: 0.9;">Professional network</div>
-    <div style="margin-top: 15px; color: #0077B5; font-size: 13px; font-weight: 500;">
-      Connect professionally →
+    <div style="font-weight: 700; color: #0077B5; margin-bottom: 8px; font-size: 18px;">LINKEDIN</div>
+    <div style="color: #94A3B8; font-size: 14px; line-height: 1.4; opacity: 0.9; margin-bottom: 15px;">
+      Professional network
     </div>
   </div>
 </a>
+</td>
 
-<!-- GitHub Card -->
-<a href="https://github.com/rajunpandey" style="text-decoration: none; position: relative;">
-  <div style="background: linear-gradient(145deg, rgba(110,123,255,0.15), rgba(110,123,255,0.05)); padding: 25px; border-radius: 16px; border: 1.5px solid rgba(110,123,255,0.25); backdrop-filter: blur(10px); transition: all 0.4s cubic-bezier(0.4, 0, 0.2, 1); box-shadow: 0 8px 32px rgba(110,123,255,0.1);"
-       onmouseover="this.style.transform='translateY(-8px) scale(1.02)'; this.style.boxShadow='0 20px 40px rgba(36,41,46,0.2)'; this.style.borderColor='rgba(36,41,46,0.4)'"
-       onmouseout="this.style.transform='translateY(0) scale(1)'; this.style.boxShadow='0 8px 32px rgba(110,123,255,0.1)'; this.style.borderColor='rgba(110,123,255,0.25)'">
-    <div style="width: 60px; height: 60px; background: linear-gradient(135deg, #24292E, #3F4448); border-radius: 50%; margin: 0 auto 20px; display: flex; align-items: center; justify-content: center; font-size: 28px; color: white; box-shadow: 0 8px 20px rgba(36,41,46,0.3);">
+<!-- GITHUB -->
+<td width="25%" valign="top">
+<a href="https://github.com/rajunpandey" style="text-decoration: none;">
+  <div style="background: linear-gradient(145deg, rgba(110,123,255,0.15), rgba(110,123,255,0.05)); padding: 25px; border-radius: 16px; border: 1.5px solid rgba(110,123,255,0.25); backdrop-filter: blur(10px); transition: all 0.4s; height: 200px; display: flex; flex-direction: column; justify-content: center;"
+       onmouseover="this.style.transform='translateY(-8px)'; this.style.boxShadow='0 20px 40px rgba(36,41,46,0.2)'; this.style.borderColor='rgba(36,41,46,0.4)'"
+       onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='none'; this.style.borderColor='rgba(110,123,255,0.25)'">
+    <div style="width: 50px; height: 50px; background: linear-gradient(135deg, #24292E, #3F4448); border-radius: 50%; margin: 0 auto 15px; display: flex; align-items: center; justify-content: center; font-size: 24px; color: white;">
       💻
     </div>
-    <div style="font-weight: 700; color: #24292E; margin-bottom: 8px; font-size: 18px; letter-spacing: 0.5px;">GITHUB</div>
-    <div style="color: #94A3B8; font-size: 14px; line-height: 1.5; opacity: 0.9;">Explore my code</div>
-    <div style="margin-top: 15px; color: #24292E; font-size: 13px; font-weight: 500;">
-      View repositories →
+    <div style="font-weight: 700; color: #24292E; margin-bottom: 8px; font-size: 18px;">GITHUB</div>
+    <div style="color: #94A3B8; font-size: 14px; line-height: 1.4; opacity: 0.9; margin-bottom: 15px;">
+      Explore my projects
     </div>
   </div>
 </a>
+</td>
 
-<!-- Twitter Card -->
-<a href="https://twitter.com/rajun_pandey" style="text-decoration: none; position: relative;">
-  <div style="background: linear-gradient(145deg, rgba(110,123,255,0.15), rgba(110,123,255,0.05)); padding: 25px; border-radius: 16px; border: 1.5px solid rgba(110,123,255,0.25); backdrop-filter: blur(10px); transition: all 0.4s cubic-bezier(0.4, 0, 0.2, 1); box-shadow: 0 8px 32px rgba(110,123,255,0.1);"
-       onmouseover="this.style.transform='translateY(-8px) scale(1.02)'; this.style.boxShadow='0 20px 40px rgba(29,161,242,0.2)'; this.style.borderColor='rgba(29,161,242,0.4)'"
-       onmouseout="this.style.transform='translateY(0) scale(1)'; this.style.boxShadow='0 8px 32px rgba(110,123,255,0.1)'; this.style.borderColor='rgba(110,123,255,0.25)'">
-    <div style="width: 60px; height: 60px; background: linear-gradient(135deg, #1DA1F2, #1C9CEA); border-radius: 50%; margin: 0 auto 20px; display: flex; align-items: center; justify-content: center; font-size: 28px; color: white; box-shadow: 0 8px 20px rgba(29,161,242,0.3);">
+<!-- TWITTER -->
+<td width="25%" valign="top">
+<a href="https://twitter.com/rajun_pandey" style="text-decoration: none;">
+  <div style="background: linear-gradient(145deg, rgba(110,123,255,0.15), rgba(110,123,255,0.05)); padding: 25px; border-radius: 16px; border: 1.5px solid rgba(110,123,255,0.25); backdrop-filter: blur(10px); transition: all 0.4s; height: 200px; display: flex; flex-direction: column; justify-content: center;"
+       onmouseover="this.style.transform='translateY(-8px)'; this.style.boxShadow='0 20px 40px rgba(29,161,242,0.2)'; this.style.borderColor='rgba(29,161,242,0.4)'"
+       onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='none'; this.style.borderColor='rgba(110,123,255,0.25)'">
+    <div style="width: 50px; height: 50px; background: linear-gradient(135deg, #1DA1F2, #1C9CEA); border-radius: 50%; margin: 0 auto 15px; display: flex; align-items: center; justify-content: center; font-size: 24px; color: white;">
       🐦
     </div>
-    <div style="font-weight: 700; color: #1DA1F2; margin-bottom: 8px; font-size: 18px; letter-spacing: 0.5px;">TWITTER</div>
-    <div style="color: #94A3B8; font-size: 14px; line-height: 1.5; opacity: 0.9;">Tech thoughts</div>
-    <div style="margin-top: 15px; color: #1DA1F2; font-size: 13px; font-weight: 500;">
-      Follow for updates →
+    <div style="font-weight: 700; color: #1DA1F2; margin-bottom: 8px; font-size: 18px;">TWITTER</div>
+    <div style="color: #94A3B8; font-size: 14px; line-height: 1.4; opacity: 0.9; margin-bottom: 15px;">
+      Tech thoughts & updates
     </div>
   </div>
 </a>
+</td>
 
-</div>
+</tr>
+</table>
 
-<!-- MODERN WAVE SEPARATOR -->
-<div style="height: 40px; margin: 60px 0 30px; overflow: hidden;">
-  <svg viewBox="0 0 1200 120" preserveAspectRatio="none" width="100%" height="100%">
-    <path d="M321.39,56.44c58-10.79,114.16-30.13,172-41.86,82.39-16.72,168.19-17.73,250.45-.39C823.78,31,906.67,72,985.66,92.83c70.05,18.48,146.53,26.09,214.34,3V0H0V27.35A600.21,600.21,0,0,0,321.39,56.44Z" 
-          fill="rgba(110,123,255,0.08)"></path>
-    <animate attributeName="d" 
-             values="M321.39,56.44c58-10.79,114.16-30.13,172-41.86,82.39-16.72,168.19-17.73,250.45-.39C823.78,31,906.67,72,985.66,92.83c70.05,18.48,146.53,26.09,214.34,3V0H0V27.35A600.21,600.21,0,0,0,321.39,56.44Z;
-                    M321.39,86.44c58-10.79,114.16-30.13,172-41.86,82.39-16.72,168.19-17.73,250.45-.39C823.78,61,906.67,102,985.66,122.83c70.05,18.48,146.53,26.09,214.34,3V0H0V57.35A600.21,600.21,0,0,0,321.39,86.44Z;
-                    M321.39,56.44c58-10.79,114.16-30.13,172-41.86,82.39-16.72,168.19-17.73,250.45-.39C823.78,31,906.67,72,985.66,92.83c70.05,18.48,146.53,26.09,214.34,3V0H0V27.35A600.21,600.21,0,0,0,321.39,56.44Z" 
-             dur="12s" repeatCount="indefinite"/>
-  </svg>
-</div>
-
-</div><!-- MODERN WAVE SEPARATOR -->
-<div style="height: 40px; margin: 60px 0 30px; overflow: hidden;">
-  <svg viewBox="0 0 1200 120" preserveAspectRatio="none" width="100%" height="100%">
-    <path d="M321.39,56.44c58-10.79,114.16-30.13,172-41.86,82.39-16.72,168.19-17.73,250.45-.39C823.78,31,906.67,72,985.66,92.83c70.05,18.48,146.53,26.09,214.34,3V0H0V27.35A600.21,600.21,0,0,0,321.39,56.44Z" 
-          fill="rgba(110,123,255,0.08)"></path>
-    <animate attributeName="d" 
-             values="M321.39,56.44c58-10.79,114.16-30.13,172-41.86,82.39-16.72,168.19-17.73,250.45-.39C823.78,31,906.67,72,985.66,92.83c70.05,18.48,146.53,26.09,214.34,3V0H0V27.35A600.21,600.21,0,0,0,321.39,56.44Z;
-                    M321.39,86.44c58-10.79,114.16-30.13,172-41.86,82.39-16.72,168.19-17.73,250.45-.39C823.78,61,906.67,102,985.66,122.83c70.05,18.48,146.53,26.09,214.34,3V0H0V57.35A600.21,600.21,0,0,0,321.39,86.44Z;
-                    M321.39,56.44c58-10.79,114.16-30.13,172-41.86,82.39-16.72,168.19-17.73,250.45-.39C823.78,31,906.67,72,985.66,92.83c70.05,18.48,146.53,26.09,214.34,3V0H0V27.35A600.21,600.21,0,0,0,321.39,56.44Z" 
-             dur="12s" repeatCount="indefinite"/>
-  </svg>
-</div>
-
-</div>
-
-<div style="margin-top: 40px;">
-  <div style="font-size: 24px; color: #6E7BFF; margin-bottom: 10px;">✨</div>
-  <div style="font-size: 18px; color: #FFFFFF; font-weight: 300; margin-bottom: 10px;">
+<!-- SIMPLE FOOTER -->
+<div style="margin-top: 60px; padding: 30px 0; border-top: 1px solid rgba(110,123,255,0.2);">
+  <div style="font-size: 18px; color: #6E7BFF; margin-bottom: 10px; font-weight: 300;">
     CRAFTED WITH PASSION • BUILT WITH CODE
   </div>
-  <div style="font-size: 14px; color: #888;">
+  <div style="font-size: 14px; color: #94A3B8;">
     © 2024 Rajan Pandey • Full Stack Developer • Digital Creator
   </div>
 </div>
